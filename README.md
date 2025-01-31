@@ -1,6 +1,6 @@
 # this-is-just-a-test
 
-The line 1: atomic
+The line 1: omega
 
 The line 2: bycicle
 
